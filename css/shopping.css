@@ -1,0 +1,49 @@
+h4{
+	text-align: center;
+	border: solid black 1px ;
+	background-color: black;
+	height: 25px;
+	color: white;
+
+}
+
+
+.btn btn-default btn-xs{
+	border-radius: 100%;
+	padding: 10%;
+}
+
+
+
+
+
+
+.joe{
+	background-color: black;
+	color: white;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	text-align: left; 
+	width: 95px;
+	border: solid black 1px;
+	float: left;
+}
+
+.thumbnail {
+    display: block;
+    padding: 4px;
+    margin-bottom: 20px;
+    line-height: 1.42857143;
+    background-color: #fff;
+    border: 0px solid #ddd;
+    border-radius: 0px;
+    -webkit-transition: border 0.2s ease-in-out;
+    -o-transition: border 0.2s ease-in-out;
+    transition: border 0.2s ease-in-out;
+    width: 290px;
+}
+.button1{
+	border-radius: 100px;
+	padding: 30px;
+}
