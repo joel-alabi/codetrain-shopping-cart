@@ -85,7 +85,7 @@ outline : none;
 border : none;
 margin : 1 vh .5 vw 1 vh 0 ;
 background-color : #ECECEC ;
-border-radius : 50 %;
+border-radius : 50%;
 padding: 10%;
 }
 
@@ -94,4 +94,5 @@ padding: 10%;
 	color: white;
 	align-items: center;
 	text-align: center;
+	width: 200px;
 }
